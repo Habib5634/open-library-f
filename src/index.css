@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container-fluid{
+  background-color: #ac8900;
+  margin-top: -7px;
+}
+.row{
+  background-color: #cac6b0  ;
+}
+.bg-light{
+  height: 80px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+.bookwelove{
+  margin-bottom: 10px;
+  margin-left: 15px;
+  font-size: 20px;
+ margin-top: 10px;
+ color: #2471A3);
+ font-weight: bold;
+  
+}
+.card{
+  height: 250px;
+  margin: 7px;
+  border-radius: 5px;
+}
+.p-2{
+  background-color: #ebe0b7;
+}
+.btn{
+  margin: 10px;
+  width: 150px;
+}
+.img-fluid{
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+#btnnn{
+  color: black;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: yellow;
+}
